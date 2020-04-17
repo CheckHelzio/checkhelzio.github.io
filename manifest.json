@@ -1,11 +1,11 @@
 {
-    "name": "Calculadora de tablas de verdad",
-    "short_name": "Calculadora de tablas de verdad",
+    "name": "tablas_de_verdad",
+    "short_name": "tablas_de_verdad",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Calculadora de tablas de verdad",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
